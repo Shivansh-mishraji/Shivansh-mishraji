@@ -61,7 +61,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 - ✅ **[First-Vibe-Coding-App](https://github.com/shivansh-mishraji/First-Vibe-Coding-App)** - React coding environment (LIVE: [https://first-vibe-coding-app.vercel.app](https://first-vibe-coding-app.vercel.app))
 
 ### 💼 Professional Websites (2 projects)
-- ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website
+- ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website (LIVE: [https://portfolio-weld-eight-24.vercel.app/](https://portfolio-weld-eight-24.vercel.app/))
 - ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage (LIVE: [https://resume-webpage-ashy.vercel.app/](https://resume-webpage-ashy.vercel.app/))
 
 ### 🛠️ Specialized Projects (3 projects)
