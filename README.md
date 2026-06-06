@@ -49,29 +49,26 @@ I enjoy building practical software, learning ML fundamentals through real proje
 
 ## 🚀 Projects
 
-### 📊 Data Science & ML (5 projects)
+### 📊 Data Science & ML
 - ✅ **[BankChurners-DataAnalyzer](https://github.com/shivansh-mishraji/BankChurners-DataAnalyzer)** - Python data analysis tool
 - ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide
 - ✅ **[CodeAlpha_-Iris-Flower-Classification-](https://github.com/shivansh-mishraji/CodeAlpha_-Iris-Flower-Classification-)** - ML classification
 - ✅ **[CodeAlpha_Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/CodeAlpha_Unemployment-Analysis-with-Python)** - Data analysis
 - ✅ **[CodeAplha_Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/CodeAplha_Car-Price-Prediction-with-Machine-Learning)** - ML prediction
 
-### 🌐 Live Deployed Applications (2 projects)
+### 🌐 Live Deployed Applications
 - ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-app-tau.vercel.app](https://house-price-prediction-app-tau.vercel.app))
-- ✅ **[First-Vibe-Coding-App](https://github.com/shivansh-mishraji/First-Vibe-Coding-App)** - React coding environment (LIVE: [https://first-vibe-coding-app.vercel.app](https://first-vibe-coding-app.vercel.app))
 
-### 💼 Professional Websites (2 projects)
+### 💼 Professional Websites
 - ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website (LIVE: [https://portfolio-weld-eight-24.vercel.app/](https://portfolio-weld-eight-24.vercel.app/))
 - ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage (LIVE: [https://resume-webpage-ashy.vercel.app/](https://resume-webpage-ashy.vercel.app/))
 
-### 🛠️ Specialized Projects (3 projects)
-- ✅ **[Nyaya-Mitra---A-legal-Helper-](https://github.com/shivansh-mishraji/Nyaya-Mitra---A-legal-Helper-)** - AI legal advisor
+### 🛠️ Specialized Projects
+- ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Data Science Learning Journey & documentation
 - ✅ **[Text-to-Handwriting-converter](https://github.com/shivansh-mishraji/Text-to-Handwriting-converter)** - Web tool
-- ✅ **[Practice-](https://github.com/shivansh-mishraji/Practice-)** - Data Science Learning Journey & learning documentation
 
-### 📚 Supporting Resources (2 projects)
+### 📚 Supporting Resources
 - ✅ **[Typing-Speed-Test](https://github.com/shivansh-mishraji/Typing-Speed-Test)** - Python utility
-- ✅ **Plus additional well-maintained projects repositories**
 
 ---
 
