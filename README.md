@@ -22,27 +22,28 @@ I’m **Shivansh Mishra**, focused on entry-level opportunities in **Data Scienc
 
 I enjoy building practical software, learning ML fundamentals through real projects, and using AI-assisted workflows to rapidly prototype products, MVPs, and digital assets.
 
-- 🎯 **Career focus:** Data Science, Machine Learning Engineering, and AI product development.
-- 🤖 **Core interests:** Data preprocessing, EDA, predictive modeling, ML pipelines, and MLOps.
-- ⚡ **Working style:** Vibe coding with AI tools to accelerate prototyping, architecture, and deployment.
-- 🧠 **Builder mindset:** I prefer shipping usable applications, not just isolated notebook experiments.
-- 🚀 **Long-term direction:** Building SaaS-style applications and AI-first digital products.
+- 🎯 **Career focus:** Data Science, Machine Learning Engineering, and AI-driven solutions.
+- 🤖 **Core expertise:** Python, SQL, C, Data preprocessing, EDA, predictive modeling, and ML pipelines.
+- ⚡ **Working style:** Deep focus on data and modeling. For web interfaces, app development, and deployment, I leverage **"vibe coding"**—using AI-assisted workflows and creative problem-solving to rapidly build and ship full-stack applications.
+- 🧠 **Builder mindset:** I prefer shipping usable, AI-integrated applications instead of stopping at isolated notebook experiments.
+- 🚀 **Long-term direction:** Developing robust ML pipelines and building AI-first digital products.
 
 ---
 
 ## 🧰 Technical Profile
 
-### Core Foundations
+### Programming Languages (Core)
 `Python` `SQL` `C`
 
-### Data Science and ML
-`Pandas` `NumPy` `Scikit-learn` `Jupyter Notebook` `Matplotlib` `Seaborn`
+### Data Science, ML & AI
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook`
 
-### Web, Backend, and Deployment
-`JavaScript` `React` `FastAPI` `Flask` `Docker` `Render` `Vercel`
+### AI-Assisted Full-Stack Prototyping (Vibe Coding)
+*While my core expertise is in Python and Data Science, I use AI-assisted tools and creative system design to build, deploy, and ship full-stack applications.*
+`Cursor / Copilot` `React (via AI)` `FastAPI (via AI)` `Docker` `Vercel` `Render`
 
 ### Workflow and Tools
-`Git` `GitHub` `GitHub Copilot` `GitHub Student Developer Pack` `VS Code` `Postman`
+`Git` `GitHub` `VS Code` `Postman`
 
 ---
 
