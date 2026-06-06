@@ -62,7 +62,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 
 ### 💼 Professional Websites (2 projects)
 - ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website
-- ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage
+- ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage (LIVE: [https://resume-webpage-ashy.vercel.app/](https://resume-webpage-ashy.vercel.app/))
 
 ### 🛠️ Specialized Projects (3 projects)
 - ✅ **[Nyaya-Mitra---A-legal-Helper-](https://github.com/shivansh-mishraji/Nyaya-Mitra---A-legal-Helper-)** - AI legal advisor
