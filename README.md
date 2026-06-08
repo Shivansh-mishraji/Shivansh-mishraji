@@ -52,24 +52,24 @@ I enjoy building practical software, learning ML fundamentals through real proje
 ### 📊 Data Science & ML
 - ✅ **[BankChurners-DataAnalyzer](https://github.com/shivansh-mishraji/BankChurners-DataAnalyzer)** - Python data analysis tool
 - ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide
-- ✅ **[CodeAlpha_-Iris-Flower-Classification-](https://github.com/shivansh-mishraji/CodeAlpha_-Iris-Flower-Classification-)** - ML classification
-- ✅ **[CodeAlpha_Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/CodeAlpha_Unemployment-Analysis-with-Python)** - Data analysis
-- ✅ **[CodeAplha_Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/CodeAplha_Car-Price-Prediction-with-Machine-Learning)** - ML prediction
+- ✅ **[Iris-Flower-Classification-](https://github.com/shivansh-mishraji/Iris-Flower-Classification-)** - ML classification
+- ✅ **[Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/Unemployment-Analysis-with-Python)** - Data analysis
+- ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction
 
 ### 🌐 Live Deployed Applications
 - ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/](https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/))
 
 ### 💼 Professional Websites
-- ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website (LIVE: [https://portfolio-weld-eight-24.vercel.app/](https://portfolio-weld-eight-24.vercel.app/))
+- 🌟 **[Portfolio-Website](https://github.com/shivansh-mishraji/Portfolio-Website)** - **[Explore My Live Portfolio!](https://portfolio-weld-eight-24.vercel.app/)** Discover my projects, skills, and data science journey in an interactive web experience.
 - ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage (LIVE: [https://resume-webpage-ashy.vercel.app/](https://resume-webpage-ashy.vercel.app/))
 
 ### 🛠️ Specialized Projects
-- ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Data Science Learning Journey & documentation
-- ✅ **[Text-to-Handwriting-converter](https://github.com/shivansh-mishraji/Text-to-Handwriting-converter)** - Web tool
+- ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Exploring new topics until I get a suitable job in the field of Data Science.
+- ✅ **[Text-to-Handwriting-converter](https://github.com/shivansh-mishraji/Text-to-Handwriting-converter)** - Converter text to pro handwriting HTML tool.
 - ✅ **[Nyaya-Mitra-MVP](https://github.com/Shivanshmishra7275/nyaya-mitra-mvp)** - Indian Criminal Case Intelligence Assistant
 
 ### 📚 Supporting Resources
-- ✅ **[Typing-Speed-Test](https://github.com/shivansh-mishraji/Typing-Speed-Test)** - Python utility
+- ✅ **[Typing-Speed-Test](https://github.com/shivansh-mishraji/Typing-Speed-Test)** - Beginner-friendly Python application to measure typing speed and accuracy.
 
 ---
 
