@@ -62,7 +62,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 - ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction
 
 ### 🌐 Live Deployed Applications
-- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/](https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/))
+- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/](https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/))
 
 ### 💼 Professional Website
 - 🌟 **[Portfolio & Resume Website](https://github.com/shivansh-mishraji/Resume-Webpage)** - **[Explore My Live Portfolio & CV!](https://resume-webpage-ashy.vercel.app/)** Discover my projects, skills, and data science journey in an interactive web experience.
