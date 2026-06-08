@@ -10,7 +10,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shivansh-mishraji&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917)](https://github.com/shivansh-mishraji)
 [![Followers](https://img.shields.io/badge/Followers-GitHub-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shivansh-mishraji?tab=followers)
-[![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Active-6366f1?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://education.github.com/pack)
+[![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Active-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com/pack)
+
+<br>
+
+<a href="https://portfolio-weld-eight-24.vercel.app/">
+  <img src="https://img.shields.io/badge/🌟%20Explore%20My%20Live%20Portfolio%20&%20CV-Click%20Here!-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+</a>
 
 </div>
 
@@ -59,9 +65,8 @@ I enjoy building practical software, learning ML fundamentals through real proje
 ### 🌐 Live Deployed Applications
 - ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/](https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/))
 
-### 💼 Professional Websites
-- 🌟 **[Portfolio-Website](https://github.com/shivansh-mishraji/Portfolio-Website)** - **[Explore My Live Portfolio!](https://portfolio-weld-eight-24.vercel.app/)** Discover my projects, skills, and data science journey in an interactive web experience.
-- ✅ **[Resume-Webpage](https://github.com/shivansh-mishraji/Resume-Webpage)** - Professional CV webpage (LIVE: [https://resume-webpage-ashy.vercel.app/](https://resume-webpage-ashy.vercel.app/))
+### 💼 Professional Website
+- 🌟 **[Portfolio & Resume Website](https://github.com/shivansh-mishraji/Portfolio-Website)** - **[Explore My Live Portfolio & CV!](https://portfolio-weld-eight-24.vercel.app/)** Discover my projects, skills, and data science journey in an interactive web experience.
 
 ### 🛠️ Specialized Projects
 - ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Exploring new topics until I get a suitable job in the field of Data Science.
