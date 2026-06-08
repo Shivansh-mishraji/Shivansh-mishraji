@@ -57,7 +57,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 - ✅ **[CodeAplha_Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/CodeAplha_Car-Price-Prediction-with-Machine-Learning)** - ML prediction
 
 ### 🌐 Live Deployed Applications
-- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-app-tau.vercel.app](https://house-price-prediction-app-tau.vercel.app))
+- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/](https://shivansh-mishra-bbd-house-price-prediction-group-project-indian.streamlit.app/))
 
 ### 💼 Professional Websites
 - ✅ **[Portfolio-](https://github.com/shivansh-mishraji/Portfolio-)** - Personal portfolio website (LIVE: [https://portfolio-weld-eight-24.vercel.app/](https://portfolio-weld-eight-24.vercel.app/))
@@ -66,6 +66,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 ### 🛠️ Specialized Projects
 - ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Data Science Learning Journey & documentation
 - ✅ **[Text-to-Handwriting-converter](https://github.com/shivansh-mishraji/Text-to-Handwriting-converter)** - Web tool
+- ✅ **[Nyaya-Mitra-MVP](https://github.com/Shivanshmishra7275/nyaya-mitra-mvp)** - Indian Criminal Case Intelligence Assistant
 
 ### 📚 Supporting Resources
 - ✅ **[Typing-Speed-Test](https://github.com/shivansh-mishraji/Typing-Speed-Test)** - Python utility
