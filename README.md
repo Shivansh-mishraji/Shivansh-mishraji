@@ -56,7 +56,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 
 ### 📊 Data Science & ML
 - ✅ **[BankChurners-DataAnalyzer](https://github.com/shivansh-mishraji/BankChurners-DataAnalyzer)** - Python data analysis tool (LIVE: [https://bank-churners-data-analyzer.vercel.app/](https://bank-churners-data-analyzer.vercel.app/))
-- ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide
+- ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide (LIVE: [https://ml-career-roadmap.vercel.app/](https://ml-career-roadmap.vercel.app/))
 - ✅ **[Iris-Flower-Classification-](https://github.com/shivansh-mishraji/Iris-Flower-Classification-)** - ML classification
 - ✅ **[Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/Unemployment-Analysis-with-Python)** - Data analysis
 - ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction
