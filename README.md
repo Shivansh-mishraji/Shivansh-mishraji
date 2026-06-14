@@ -62,7 +62,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 - ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction (LIVE: [https://car-price-prediction-with-machine-l.vercel.app/](https://car-price-prediction-with-machine-l.vercel.app/))
 
 ### 🌐 Live Deployed Applications
-- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-app-tau.vercel.app/](https://house-price-prediction-app-tau.vercel.app/))
+- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/](https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/))
 - ✅ **[Contact Forge](https://github.com/shivansh-mishraji/Contact-Forge)** - Cloud web application (LIVE: [https://contactforge-cloud-web.vercel.app/](https://contactforge-cloud-web.vercel.app/))
 - ✅ **[Secure Password Generator](https://github.com/shivansh-mishraji/password-generator)** - Secure web-based password generator (LIVE: [https://random-password-generator-by-shivansh-mishra.vercel.app/](https://random-password-generator-by-shivansh-mishra.vercel.app/))
 
