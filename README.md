@@ -59,7 +59,7 @@ I enjoy building practical software, learning ML fundamentals through real proje
 - ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide (LIVE: [https://ml-career-roadmap.vercel.app/](https://ml-career-roadmap.vercel.app/))
 - ✅ **[Iris-Flower-Classification-](https://github.com/shivansh-mishraji/Iris-Flower-Classification-)** - ML classification (LIVE: [https://iris-flower-classification-tan.vercel.app/](https://iris-flower-classification-tan.vercel.app/))
 - ✅ **[Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/Unemployment-Analysis-with-Python)** - Data analysis
-- ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction
+- ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction (LIVE: [https://car-price-prediction-with-machine-l.vercel.app/](https://car-price-prediction-with-machine-l.vercel.app/))
 
 ### 🌐 Live Deployed Applications
 - ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-app-tau.vercel.app/](https://house-price-prediction-app-tau.vercel.app/))
