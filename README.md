@@ -116,3 +116,13 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 
 </div>
 <!-- LAST_REFRESHED: 2026-06-06T13:09:28Z -->
+
+
+<!-- LATEST_PROJECTS_START -->
+### 🚀 My Latest Projects
+
+- [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - No description provided. `[Various]`
+- [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) - No description provided. `[Jupyter Notebook]`
+- [**Iris-Flower-Classification-**](https://github.com/Shivansh-mishraji/Iris-Flower-Classification-) - No description provided. `[Jupyter Notebook]`
+
+<!-- LATEST_PROJECTS_END -->
