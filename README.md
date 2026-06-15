@@ -121,10 +121,10 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 <!-- LATEST_PROJECTS_START -->
 ### 🚀 My Latest Projects
 
+- [**ML-Career-Roadmap**](https://github.com/Shivansh-mishraji/ML-Career-Roadmap) | [Live Demo](https://ml-career-roadmap.vercel.app) - No description provided. `[JavaScript]`
 - [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - No description provided. `[HTML]`
 - [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - No description provided. `[Various]`
 - [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - No description provided. `[Jupyter Notebook]`
 - [**Iris-Flower-Classification-**](https://github.com/Shivansh-mishraji/Iris-Flower-Classification-) | [Live Demo](https://iris-flower-classification-alpha.vercel.app/) - No description provided. `[Jupyter Notebook]`
-- [**ML-Career-Roadmap**](https://github.com/Shivansh-mishraji/ML-Career-Roadmap) | [Live Demo](https://ml-career-roadmap.vercel.app) - No description provided. `[JavaScript]`
 
 <!-- LATEST_PROJECTS_END -->
