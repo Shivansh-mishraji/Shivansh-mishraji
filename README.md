@@ -121,10 +121,10 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 <!-- LATEST_PROJECTS_START -->
 ### 🚀 My Latest Projects
 
-- [**Unemployment-Analysis-with-Python**](https://github.com/Shivansh-mishraji/Unemployment-Analysis-with-Python) - No description provided. `[Jupyter Notebook]`
+- [**Unemployment-Analysis-with-Python**](https://github.com/Shivansh-mishraji/Unemployment-Analysis-with-Python) | [Live Demo](https://unemployment-analysis-with-python-three.vercel.app) - No description provided. `[Jupyter Notebook]`
+- [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - No description provided. `[HTML]`
 - [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - No description provided. `[Various]`
 - [**ML-Career-Roadmap**](https://github.com/Shivansh-mishraji/ML-Career-Roadmap) | [Live Demo](https://ml-career-roadmap.vercel.app) - No description provided. `[JavaScript]`
-- [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - No description provided. `[HTML]`
 - [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - No description provided. `[Jupyter Notebook]`
 
 <!-- LATEST_PROJECTS_END -->
