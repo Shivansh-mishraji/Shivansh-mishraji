@@ -121,10 +121,10 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 <!-- LATEST_PROJECTS_START -->
 ### 🚀 My Latest Projects
 
+- [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - Personal portfolio website built with HTML & CSS to showcase projects, skills, and contact information. `[HTML]`
 - [**fastapi-learning**](https://github.com/Shivansh-mishraji/fastapi-learning) - FastAPI learning path - CRUD, auth, websockets, LLM `[Python]`
+- [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - My GitHub profile README — showcasing skills, projects, and learning journey in Data Science & ML. `[Various]`
 - [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - Machine learning model to predict used-car prices using regression techniques with Python and scikit-learn. `[Jupyter Notebook]`
 - [**FastAPI-Basic-CRUD-Project-From-Scratch**](https://github.com/Shivansh-mishraji/FastAPI-Basic-CRUD-Project-From-Scratch) - Creating first FastApi Project from scratch while Learning `[Python]`
-- [**BankChurners-DataAnalyzer**](https://github.com/Shivansh-mishraji/BankChurners-DataAnalyzer) | [Live Demo](https://bank-churners-data-analyzer.vercel.app) - Exploratory data analysis and churn prediction on bank customer data using Python and machine learning. `[Python]`
-- [**fastapi-aiml-deep-dive**](https://github.com/Shivansh-mishraji/fastapi-aiml-deep-dive) - No description provided. `[Python]`
 
 <!-- LATEST_PROJECTS_END -->
