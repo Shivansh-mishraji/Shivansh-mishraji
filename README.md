@@ -121,10 +121,10 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 <!-- LATEST_PROJECTS_START -->
 ### 🚀 My Latest Projects
 
+- [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - Machine learning model to predict used-car prices using regression techniques with Python and scikit-learn. `[Jupyter Notebook]`
+- [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - My GitHub profile README — showcasing skills, projects, and learning journey in Data Science & ML. `[Various]`
 - [**fastapi-learning**](https://github.com/Shivansh-mishraji/fastapi-learning) - FastAPI learning path - CRUD, auth, websockets, LLM `[Python]`
 - [**BankChurners-DataAnalyzer**](https://github.com/Shivansh-mishraji/BankChurners-DataAnalyzer) | [Live Demo](https://bank-churners-data-analyzer.vercel.app) - Exploratory data analysis and churn prediction on bank customer data using Python and machine learning. `[Python]`
-- [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - My GitHub profile README — showcasing skills, projects, and learning journey in Data Science & ML. `[Various]`
 - [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - Personal portfolio website built with HTML & CSS to showcase projects, skills, and contact information. `[HTML]`
-- [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - Machine learning model to predict used-car prices using regression techniques with Python and scikit-learn. `[Jupyter Notebook]`
 
 <!-- LATEST_PROJECTS_END -->
