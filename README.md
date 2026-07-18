@@ -117,7 +117,6 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 </div>
 <!-- LAST_REFRESHED: 2026-06-06T13:09:28Z -->
 
-
 <!-- LATEST_PROJECTS_START -->
 ### 🚀 My Latest Projects
 
