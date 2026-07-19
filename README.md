@@ -127,3 +127,5 @@ Open to internships, AI/ML collaborations, open-source contributions, and startu
 - [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - Personal portfolio website built with HTML & CSS to showcase projects, skills, and contact information. `[HTML]`
 
 <!-- LATEST_PROJECTS_END -->
+
+> **Note:** This section is actively maintained and updated.
