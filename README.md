@@ -21,22 +21,30 @@
 
 ```python
 class Shivansh:
-    name        = "Shivansh Mishra"
-    degree      = "B.Tech CSE — Cloud Computing & ML (BBD University, Lucknow)"
-    year        = "3rd Year  |  Graduating 2028"
-    location    = "Lucknow, India"
-    target      = "Backend AI Engineering Internship"
-    open_to     = "India / Remote"
+    """
+    3rd year CSE student who takes backend engineering seriously.
+    I don't collect tutorials — I build things, break them, and fix them.
+    """
+    name     = "Shivansh Mishra"
+    based_in = "Lucknow, India"
+    studying = "B.Tech CSE — Cloud Computing & ML @ BBD University"
 
-    currently_building = "AI Resume Analyzer — FastAPI + Gemini API + RAG"
-    daily_routine      = "Write code → Break it → Debug it → Commit it"
-    philosophy         = "Write the structure yourself. Use AI for speed only."
-    rule               = "If you can't explain every line, you can't use it."
+    interests = [
+        "Backend Systems & REST API Design",
+        "AI Integration (LLMs, RAG, Embeddings)",
+        "Clean code that survives a senior's code review",
+    ]
+
+    building  = "AI-powered Resume Analyzer — FastAPI + Gemini API + RAG"
+    looking_for = "Backend / AI Engineering Internship — India or Remote"
+
+    fun_fact  = "I debug first, think second, and ask Stack Overflow last."
+    philosophy = "If you can't explain every line, you can't use it."
 ```
 
 <div align="right">
-  <img src="https://img.shields.io/badge/Status-Actively%20Upskilling-58A6FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Available-Week%208%20(Sep%202026)-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-58A6FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internship-2EA44F?style=flat-square"/>
 </div>
 
 ---
@@ -64,17 +72,17 @@ class Shivansh:
   <tr>
     <td><b>Database</b></td>
     <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30"/> PostgreSQL + SQLAlchemy</td>
-    <td>⏳ Week 5</td>
+    <td>⏳ Coming Soon</td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
     <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30"/> Docker + <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="30"/> GitHub Actions</td>
-    <td>⏳ Week 6</td>
+    <td>⏳ Coming Soon</td>
   </tr>
   <tr>
     <td><b>AI / ML</b></td>
     <td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="30"/> Gemini API + ChromaDB (RAG)</td>
-    <td>⏳ Week 7</td>
+    <td>⏳ Coming Soon</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -95,9 +103,9 @@ class Shivansh:
 |:---|:---|:---:|
 | Python Core (OOP, Decorators, Exceptions) | `████████████████████` 100% | ✅ Done |
 | FastAPI (Routes, Pydantic, JWT Auth) | `██████████░░░░░░░░░░` 50% | 🔄 Active |
-| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 20% | ⏳ Week 5 |
-| Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Week 6 |
-| Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Week 7 |
+| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 20% | ⏳ Next |
+| Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
+| Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
 
 </div>
 
@@ -105,7 +113,7 @@ class Shivansh:
 
 ## 🚀 Flagship Project — AI Resume Analyzer
 
-> **Shipping Week 8** — Production grade · Fully deployed · Public URL
+> **In Development** — Production grade · Full stack · Public URL on completion
 
 <div align="center">
 
@@ -137,16 +145,16 @@ class Shivansh:
 
 </div>
 
-| Layer | Technology | Timeline |
+| Layer | Technology | Status |
 |:---|:---|:---:|
-| REST API | FastAPI + Pydantic v2 | Week 4 |
-| Auth | JWT + OAuth2 password flow | Week 4 |
-| ORM + Migrations | SQLAlchemy + Alembic | Week 5 |
-| AI Engine | Gemini API (structured output) | Week 7 |
-| Vector Store | ChromaDB + text embeddings | Week 7 |
-| Test Suite | pytest + httpx | Week 6 |
-| Containerize | Docker + docker-compose | Week 6 |
-| Deploy | Railway with GitHub Actions CI | Week 8 |
+| REST API | FastAPI + Pydantic v2 | 🔄 Active |
+| Auth | JWT + OAuth2 password flow | 🔄 Active |
+| ORM + Migrations | SQLAlchemy + Alembic | ⏳ Next |
+| AI Engine | Gemini API (structured output) | ⏳ Upcoming |
+| Vector Store | ChromaDB + text embeddings | ⏳ Upcoming |
+| Test Suite | pytest + httpx | ⏳ Upcoming |
+| Containerize | Docker + docker-compose | ⏳ Upcoming |
+| Deploy | Railway + GitHub Actions CI | ⏳ Final |
 
 ---
 
@@ -199,7 +207,7 @@ Looking for a team that:
 
 <br/>
 
-**Building in public · Real commits · Shipping Week 8** 🚀
+**Building in public · Real commits · Shipping soon** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
