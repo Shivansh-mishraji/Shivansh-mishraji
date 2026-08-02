@@ -154,12 +154,7 @@ class Shivansh:
 
 <div align="center">
 
-<table><tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&cache_seconds=21600" height="170" alt="GitHub Stats"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&cache_seconds=21600" height="170" alt="Top Languages"/></td>
-</tr></table>
-
-<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=888888" width="70%" alt="GitHub Streak"/>
 
 </div>
 
