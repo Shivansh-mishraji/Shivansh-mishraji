@@ -22,24 +22,27 @@
 ```python
 class Shivansh:
     """
-    3rd year CSE student who takes backend engineering seriously.
-    I don't collect tutorials — I build things, break them, and fix them.
+    Honest version: I spent a year vibe-coding — copying from tutorials,
+    using AI to generate code I couldn't explain, shipping repos I couldn't defend.
+
+    Then I decided to actually learn. Now I write every line from memory,
+    run it, break it, debug it, and commit it. No shortcuts.
     """
     name     = "Shivansh Mishra"
     based_in = "Lucknow, India"
-    studying = "B.Tech CSE — Cloud Computing & ML @ BBD University"
+    studying = "B.Tech CSE — Cloud Computing & ML @ BBD University (3rd Year)"
+
+    past     = "25 vibe-coded repos. Learned nothing. Looked busy."
+    present  = "Building production-quality Python systems from scratch."
+    target   = "Backend / AI Engineering Internship — India or Remote"
 
     interests = [
         "Backend Systems & REST API Design",
-        "AI Integration (LLMs, RAG, Embeddings)",
-        "Clean code that survives a senior's code review",
+        "AI Integration — LLMs, RAG, Embeddings",
+        "Code that actually survives a senior engineer's review",
     ]
 
-    building  = "AI-powered Resume Analyzer — FastAPI + Gemini API + RAG"
-    looking_for = "Backend / AI Engineering Internship — India or Remote"
-
-    fun_fact  = "I debug first, think second, and ask Stack Overflow last."
-    philosophy = "If you can't explain every line, you can't use it."
+    standard = "Every line committed must be explainable. No exceptions."
 ```
 
 <div align="right">
