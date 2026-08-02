@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shivansh%20Mishra&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Backend%20%7C%20AI%20Engineer%20%E2%80%94%20Building%20Real%20Systems&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL+%E2%86%92+Gemini+API;Building+production+APIs+%F0%9F%94%A5;Real+commits.+No+vibe-coding.+No+shortcuts.;3rd+Year+%E2%86%92+Backend+AI+Engineer+%F0%9F%9A%80;Writing+code+that+survives+a+code+review." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL+%E2%86%92+Gemini+API;Building+production+APIs+from+scratch+%F0%9F%94%A5;Real+commits.+No+vibe-coding.+No+shortcuts.;Writing+code+that+survives+a+code+review." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -22,20 +22,22 @@
 ```python
 class Shivansh:
     name        = "Shivansh Mishra"
-    university  = "BBD University, Lucknow — B.Tech CSE (Cloud Computing & ML)"
+    degree      = "B.Tech CSE — Cloud Computing & ML (BBD University, Lucknow)"
     year        = "3rd Year  |  Graduating 2028"
+    location    = "Lucknow, India"
     target      = "Backend AI Engineering Internship"
-    location    = "Lucknow, India  🇮🇳"
+    open_to     = "India / Remote"
 
-    currently   = [
-        "Building production-quality Python systems from memory",
-        "Learning FastAPI → PostgreSQL → Gemini API pipeline",
-        "Committing real code every day — watch the streak",
-    ]
-
-    philosophy  = "Write the structure yourself. Use AI for speed on patterns you understand."
-    rule        = "If you can't explain every line, you can't use it."
+    currently_building = "AI Resume Analyzer — FastAPI + Gemini API + RAG"
+    daily_routine      = "Write code → Break it → Debug it → Commit it"
+    philosophy         = "Write the structure yourself. Use AI for speed only."
+    rule               = "If you can't explain every line, you can't use it."
 ```
+
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-Actively%20Upskilling-58A6FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Available-Week%208%20(Sep%202026)-2EA44F?style=flat-square"/>
+</div>
 
 ---
 
@@ -44,42 +46,42 @@ class Shivansh:
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50"/><br/>
-  <b>Python</b><br/><sub>Strong</sub>
-</td>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="50"/><br/>
-  <b>FastAPI</b><br/><sub>Building</sub>
-</td>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/>
-  <b>PostgreSQL</b><br/><sub>Building</sub>
-</td>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50"/><br/>
-  <b>Docker</b><br/><sub>Week 6</sub>
-</td>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50"/><br/>
-  <b>CI/CD</b><br/><sub>Week 6</sub>
-</td>
-<td align="center" width="130">
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="50"/><br/>
-  <b>Gemini API</b><br/><sub>Week 7</sub>
-</td>
-</tr>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td><b>Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/> Python</td>
+    <td>✅ Strong</td>
+  </tr>
+  <tr>
+    <td><b>API Framework</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="30"/> FastAPI</td>
+    <td>🔄 Building</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30"/> PostgreSQL + SQLAlchemy</td>
+    <td>⏳ Week 5</td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30"/> Docker + <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="30"/> GitHub Actions</td>
+    <td>⏳ Week 6</td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="30"/> Gemini API + ChromaDB (RAG)</td>
+    <td>⏳ Week 7</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" height="30"/></td>
+    <td>✅ Daily Driver</td>
+  </tr>
 </table>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Daily_Driver-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-Week_7-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
@@ -87,44 +89,64 @@ class Shivansh:
 
 ## 🔥 Currently Mastering
 
-```
-Python Core         ████████████████████  100%  ✅ OOP · Decorators · Properties · Exceptions
-FastAPI             ██████████░░░░░░░░░░   50%  🔄 Routes done → Auth & DI coming
-PostgreSQL          ████░░░░░░░░░░░░░░░░   20%  ⏳ Week 5
-Docker              ░░░░░░░░░░░░░░░░░░░░    0%  ⏳ Week 6
-Gemini API + RAG    ░░░░░░░░░░░░░░░░░░░░    0%  ⏳ Week 7
-```
+<div align="center">
+
+| Skill | Progress | Status |
+|:---|:---|:---:|
+| Python Core (OOP, Decorators, Exceptions) | `████████████████████` 100% | ✅ Done |
+| FastAPI (Routes, Pydantic, JWT Auth) | `██████████░░░░░░░░░░` 50% | 🔄 Active |
+| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 20% | ⏳ Week 5 |
+| Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Week 6 |
+| Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Week 7 |
+
+</div>
 
 ---
 
 ## 🚀 Flagship Project — AI Resume Analyzer
 
-> *Dropping Week 8 — Production grade, fully deployed, publicly available*
+> **Shipping Week 8** — Production grade · Fully deployed · Public URL
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│               AI Resume Analyzer API                     │
-│         FastAPI · Gemini · PostgreSQL · RAG              │
-└─────────────────────────────────────────────────────────┘
-                          │
-         ┌────────────────┼────────────────┐
-         ▼                ▼                ▼
-   ┌──────────┐    ┌─────────────┐   ┌──────────────┐
-   │ FastAPI  │    │ Gemini API  │   │  ChromaDB    │
-   │ REST API │───▶│ LLM Scoring │◀─▶│  RAG Search  │
-   │ JWT Auth │    │ + Feedback  │   │  Embeddings  │
-   └──────────┘    └─────────────┘   └──────────────┘
-         │
-         ▼
-   ┌──────────┐    ┌─────────────┐   ┌──────────────┐
-   │Postgres  │    │   Docker    │   │   Deployed   │
-   │+Alembic  │    │  Compose    │   │  Railway 🌐  │
-   └──────────┘    └─────────────┘   └──────────────┘
+  [ User uploads resume (PDF) ]
+              │
+              ▼
+  ┌─────────────────────────┐
+  │     FastAPI Backend     │  ← JWT Auth · Rate Limiting · Pydantic validation
+  └─────────────────────────┘
+         │            │
+         ▼            ▼
+  ┌──────────┐  ┌──────────────────────────────┐
+  │PostgreSQL│  │       Gemini API              │
+  │+Alembic  │  │  LLM scoring + gap analysis  │
+  │(history) │  │  + structured JSON feedback  │
+  └──────────┘  └──────────────────────────────┘
+                         │
+                         ▼
+               ┌──────────────────┐
+               │    ChromaDB      │
+               │ Embeddings + RAG │
+               │ (semantic match) │
+               └──────────────────┘
+                         │
+                         ▼
+  [ Score · Skill Gaps · Suggestions → JSON Response ]
 ```
 
 </div>
+
+| Layer | Technology | Timeline |
+|:---|:---|:---:|
+| REST API | FastAPI + Pydantic v2 | Week 4 |
+| Auth | JWT + OAuth2 password flow | Week 4 |
+| ORM + Migrations | SQLAlchemy + Alembic | Week 5 |
+| AI Engine | Gemini API (structured output) | Week 7 |
+| Vector Store | ChromaDB + text embeddings | Week 7 |
+| Test Suite | pytest + httpx | Week 6 |
+| Containerize | Docker + docker-compose | Week 6 |
+| Deploy | Railway with GitHub Actions CI | Week 8 |
 
 ---
 
@@ -146,7 +168,7 @@ Gemini API + RAG    ░░░░░░░░░░░░░░░░░░░░
 ## 📈 Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-mishraji&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="100%" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-mishraji&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -165,14 +187,14 @@ Gemini API + RAG    ░░░░░░░░░░░░░░░░░░░░
 
 ## 🎯 Open To
 
-Backend / AI Engineering internships — **India or Remote**
+**Backend / AI Engineering Internships** — India or Remote
 
-I want to work somewhere that:
+Looking for a team that:
 - Ships software people actually use
-- Reviews code like a professional team
-- Is building AI into their core product
+- Does serious code reviews (I want to grow from PRs)
+- Integrates AI into the core product
 
-📬 **[LinkedIn](https://www.linkedin.com/in/shivansh-mishra-15eb97356)** · **[tgsmishra@gmail.com](mailto:tgsmishra@gmail.com)**
+📬 **[LinkedIn](https://www.linkedin.com/in/shivansh-mishra-15eb97356)** &nbsp;·&nbsp; **[tgsmishra@gmail.com](mailto:tgsmishra@gmail.com)**
 
 ---
 
@@ -182,7 +204,7 @@ I want to work somewhere that:
 
 <br/>
 
-*Building in public · Real commits · Shipping Week 8* 🚀
+**Building in public · Real commits · Shipping Week 8** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
