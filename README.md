@@ -128,24 +128,16 @@ Gemini API + RAG    ░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shivansh-mishraji&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&cache_seconds=1800" alt="stats"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&cache_seconds=1800" alt="top langs"/>
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true&cache_seconds=21600" height="170" alt="GitHub Stats"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&cache_seconds=21600" height="170" alt="Top Languages"/></td>
+</tr></table>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
 
