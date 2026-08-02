@@ -1,141 +1,170 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivansh%20Mishra&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Entry-Level%20Data%20Science%20and%20ML%20Builder%20%7C%20AI%20Product%20Explorer&amp;descAlignY=58&amp;descSize=20" width="100%" alt="Shivansh Mishra Banner"/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shivansh%20Mishra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20AI%20Engineer%20in%20Training&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=6EE7F7&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=760&amp;height=60&amp;lines=Learning+Data+Science+and+Machine+Learning;Building+AI-first+projects+with+practical+thinking;Vibe+coding+web+apps+and+MVPs+with+AI+tools;Exploring+ML+pipelines%2C+EDA%2C+modeling%2C+and+deployment)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh%20Mishra-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-132b97358)
-[![GitHub Primary](https://img.shields.io/badge/Primary%20Account-shivansh--mishraji-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shivansh-mishraji)
-[![GitHub Secondary](https://img.shields.io/badge/Secondary%20Account-Shivanshmishra7275-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Shivanshmishra7275)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=shivansh-mishraji&amp;style=for-the-badge&amp;color=0891b2&amp;labelColor=1c1917)](https://github.com/shivansh-mishraji)
-[![Followers](https://img.shields.io/badge/Followers-GitHub-0891b2?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shivansh-mishraji?tab=followers)
-
-<br>
-
-<a href="https://resume-webpage-ashy.vercel.app/">
-  <img src="https://img.shields.io/badge/🌟%20Explore%20My%20Live%20Portfolio%20&%20CV-Click%20Here!-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+<!-- ANIMATED TYPING TEXT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+production+APIs+from+scratch;Python+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL+%E2%86%92+AI;Week+1+of+8+%E2%80%94+GSAEB+Internship+Track;Genuine+code.+Real+commits.+No+vibe-coding." alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-15eb97356)
+[![GitHub](https://img.shields.io/badge/Python--Learning--Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivansh-mishraji/Python-Learning-Journey)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](#-what-im-looking-for)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-mishraji&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👋 About Me
+## `> whoami`
 
-I’m **Shivansh Mishra**, focused on entry-level opportunities in **Data Science** and **Machine Learning Engineering**.
+```python
+class Shivansh:
+    name        = "Shivansh Mishra"
+    university  = "BBD University, Lucknow (B.Tech CSE — Cloud & ML)"
+    year        = "3rd Year → Graduating 2028"
+    target_role = "Backend AI Engineer"
+    deadline    = "Internship within 2-3 months"
+    location    = "Lucknow, India"
 
-I enjoy building practical software, learning ML fundamentals through real projects, and using AI-assisted workflows to rapidly prototype products, MVPs, and digital assets.
+    currently_building = [
+        "Production Python systems (OOP, decorators, properties)",
+        "FastAPI REST APIs with auth + pagination",
+        "AI Resume Analyzer — Gemini API + RAG pipeline",
+    ]
 
-- 🎯 **Career focus:** Data Science, Machine Learning Engineering, and AI-driven solutions.
-- 🤖 **Core expertise:** Python, SQL, C, Data preprocessing, EDA, predictive modeling, and ML pipelines.
-- ⚡ **Working style:** Deep focus on data and modeling. For web interfaces, app development, and deployment, I leverage **"vibe coding"**—using AI-assisted workflows and creative problem-solving to rapidly build and ship full-stack applications.
-- 🧠 **Builder mindset:** I prefer shipping usable, AI-integrated applications instead of stopping at isolated notebook experiments.
-- 🚀 **Long-term direction:** Developing robust ML pipelines and building AI-first digital products.
-
----
-
-## 🧰 Technical Profile
-
-### Programming Languages (Core)
-`Python` `SQL` `C`
-
-### Data Science, ML & AI
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter Notebook`
-
-### AI-Assisted Full-Stack Prototyping (Vibe Coding)
-*While my core expertise is in Python and Data Science, I use AI-assisted tools and creative system design to build, deploy, and ship full-stack applications.*
-`Cursor / Copilot` `React (via AI)` `FastAPI (via AI)` `Docker` `Vercel` `Render`
-
-### Workflow and Tools
-`Git` `GitHub` `VS Code` `Postman`
+    philosophy = "Write the structure yourself. Use AI for speed on patterns you understand."
+    status     = "Shipping real code. Not collecting certificates."
+```
 
 ---
 
-## 🚀 Projects
+## 🔥 What I'm Working On Right Now
 
-### 📊 Data Science & ML
-- ✅ **[BankChurners-DataAnalyzer](https://github.com/shivansh-mishraji/BankChurners-DataAnalyzer)** - Python data analysis tool (LIVE: [https://bank-churners-data-analyzer.vercel.app/](https://bank-churners-data-analyzer.vercel.app/))
-- ✅ **[ML-Career-Roadmap](https://github.com/shivansh-mishraji/ML-Career-Roadmap)** - Comprehensive learning guide (LIVE: [https://ml-career-roadmap.vercel.app/](https://ml-career-roadmap.vercel.app/))
-- ✅ **[Iris-Flower-Classification-](https://github.com/shivansh-mishraji/Iris-Flower-Classification-)** - ML classification (LIVE: [https://iris-flower-classification-tan.vercel.app/](https://iris-flower-classification-tan.vercel.app/))
-- ✅ **[Unemployment-Analysis-with-Python](https://github.com/shivansh-mishraji/Unemployment-Analysis-with-Python)** - Data analysis  (LIVE: [https://unemployment-analysis-with-python-ivory.vercel.app/](https://unemployment-analysis-with-python-ivory.vercel.app/)))
-- ✅ **[Car-Price-Prediction-with-Machine-Learning](https://github.com/shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning)** - ML prediction (LIVE: [https://car-price-prediction-with-machine-l.vercel.app/](https://car-price-prediction-with-machine-l.vercel.app/))
+> **GSAEB Sprint 1 — Week 1/8** — Python Core Mastery
 
-### 🌐 Live Deployed Applications
-- ✅ **[house-price-prediction-app](https://github.com/shivansh-mishraji/house-price-prediction-app)** - Streamlit web app (LIVE: [https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/](https://house-price-prediction-appgit-xkjcdvy55zwsxqninb7f9z.streamlit.app/))
-- ✅ **[Contact Forge](https://github.com/shivansh-mishraji/Contact-Forge)** - Cloud web application (LIVE: [https://contactforge-cloud-web.vercel.app/](https://contactforge-cloud-web.vercel.app/))
-- ✅ **[Secure Password Generator](https://github.com/shivansh-mishraji/password-generator)** - Secure web-based password generator (LIVE: [https://random-password-generator-by-shivansh-mishra.vercel.app/](https://random-password-generator-by-shivansh-mishra.vercel.app/))
-
-### 💼 Professional Website
-- 🌟 **[Portfolio & Resume Website](https://github.com/shivansh-mishraji/Resume-Webpage)** - **[Explore My Live Portfolio & CV!](https://resume-webpage-ashy.vercel.app/)** Discover my projects, skills, and data science journey in an interactive web experience.
-
-### 🛠️ Specialized Projects
-- ✅ **[Python-Learning-Journey](https://github.com/shivansh-mishraji/Python-Learning-Journey)** - Exploring new topics until I get a suitable job in the field of Data Science.
-- ✅ **[Text-to-Handwriting-converter](https://github.com/shivansh-mishraji/Text-to-Handwriting-converter)** - Converter text to pro handwriting HTML tool. (LIVE: [https://shivansh-mishraji.github.io/Text-to-Handwriting-converter/](https://shivansh-mishraji.github.io/Text-to-Handwriting-converter/))
-- ✅ **[Nyaya-Mitra-MVP](https://github.com/Shivanshmishra7275/nyaya-mitra-mvp)** - Indian Criminal Case Intelligence Assistant
-
-### 📚 Supporting Resources
-- ✅ **[Typing-Speed-Test](https://github.com/shivansh-mishraji/Typing-Speed-Test)** - Beginner-friendly Python application to measure typing speed and accuracy. (LIVE: [https://typing-speed-test-two-eta.vercel.app/](https://typing-speed-test-two-eta.vercel.app/))
+| Project | Status | Description |
+|:---|:---:|:---|
+| `inventory.py` | ✅ Done | Inventory System — OOP, dataclasses, magic methods |
+| `bank.py` | ✅ Done | BankAccount — @property validation, private state |
+| `decorators.py` | ✅ Done | @timer + @validate_positive — functools.wraps |
+| `vault.py` | ✅ Done | Capstone — OOP + Decorators + Exceptions integrated |
+| `FastAPI Todo API` | 🔄 Week 4 | Deployed REST API with JWT auth |
+| `AI Resume Analyzer` | ⏳ Week 7 | Gemini API + ChromaDB RAG pipeline |
 
 ---
 
-## 🛠 Experience
-
-- 🐳 Containerized an MVP application using **Docker**.
-- 🚀 Deployed a Python backend to **Render**.
-- 🧪 Built with AI-assisted workflows for faster prototyping and iteration.
-- 🎤 Presented a startup pitch for a legal-tech concept at **ENTREPRENIA**.
-- 🧑‍💻 Participated in **Coderush 2.0** at Dr. Akhilesh Das Gupta Auditorium, Lucknow.
-
----
-
-## 📚 Current Focus
-
-- Strengthening machine learning fundamentals through project-based learning.
-- Improving preprocessing, EDA, feature thinking, modeling, and evaluation.
-- Exploring deployment patterns and practical MLOps workflows.
-- Building AI-first products and SaaS-style applications with real user value.
-
----
-
-## 🌐 Profiles
-
-- LinkedIn: [Shivansh Mishra](https://www.linkedin.com/in/shivansh-mishra-132b97358)
-- GitHub Primary: [shivansh-mishraji](https://github.com/shivansh-mishraji)
-- GitHub Secondary: [Shivanshmishra7275](https://github.com/Shivanshmishra7275)
-
----
-
-## 💡 Status
-
-Open to internships, AI/ML collaborations, open-source contributions, and startup opportunities.
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=110&amp;section=footer" width="100%" alt="footer wave"/>
+### ✅ Production Ready
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark" />
+
+### 🔄 Actively Building Depth
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&theme=dark" />
+
+### ⏳ Coming in 4–6 Weeks
+<img src="https://skillicons.dev/icons?i=gcp,redis,githubactions&theme=dark" />
 
 </div>
-<!-- LAST_REFRESHED: 2026-06-06T13:09:28Z -->
-
-<!-- LATEST_PROJECTS_START -->
-### 🚀 My Latest Projects
-
-- [**BankChurners-DataAnalyzer**](https://github.com/Shivansh-mishraji/BankChurners-DataAnalyzer) | [Live Demo](https://bank-churners-data-analyzer.vercel.app) - Exploratory data analysis and churn prediction on bank customer data using Python and machine learning. `[Python]`
-- [**Shivansh-mishraji**](https://github.com/Shivansh-mishraji/Shivansh-mishraji) - My GitHub profile README — showcasing skills, projects, and learning journey in Data Science & ML. `[Various]`
-- [**fastapi-learning**](https://github.com/Shivansh-mishraji/fastapi-learning) - FastAPI learning path - CRUD, auth, websockets, LLM `[Python]`
-- [**Car-Price-Prediction-with-Machine-Learning**](https://github.com/Shivansh-mishraji/Car-Price-Prediction-with-Machine-Learning) | [Live Demo](https://car-price-prediction-with-machine-l.vercel.app) - Machine learning model to predict used-car prices using regression techniques with Python and scikit-learn. `[Jupyter Notebook]`
-- [**Portfolio-Website**](https://github.com/Shivansh-mishraji/Portfolio-Website) | [Live Demo](https://resume-webpage-ashy.vercel.app) - Personal portfolio website built with HTML & CSS to showcase projects, skills, and contact information. `[HTML]`
-
-<!-- LATEST_PROJECTS_END -->
-
-> **Note:** This section is actively maintained and updated.
-
-> **Note:** This section is actively maintained and updated.
-
-> **Note:** This section is actively maintained and updated.
-
-> **Note:** This section is actively maintained and updated.
 
 ---
 
-_Last updated: July 26, 2026_
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-mishraji&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🗺️ The 8-Week Roadmap (GSAEB Internship Accelerator)
+
+```
+ WEEK 1  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  Python Core     [90%]  OOP · Decorators · Exceptions
+ WEEK 2  ░░░░░░░░░░░░░░░░░░░░  Pro Python        [ 0%]  File I/O · Logging · Modules · venv
+ WEEK 3  ░░░░░░░░░░░░░░░░░░░░  Git + SQL + APIs  [ 0%]  SQL JOINs · FastAPI entry
+ WEEK 4  ░░░░░░░░░░░░░░░░░░░░  FastAPI Core      [ 0%]  JWT Auth · DI · Pagination
+ WEEK 5  ░░░░░░░░░░░░░░░░░░░░  PostgreSQL        [ 0%]  SQLAlchemy · Alembic · Migrations
+ WEEK 6  ░░░░░░░░░░░░░░░░░░░░  Quality           [ 0%]  pytest · Docker · CI
+ WEEK 7  ░░░░░░░░░░░░░░░░░░░░  AI Integration    [ 0%]  Gemini API · Embeddings · RAG
+ WEEK 8  ░░░░░░░░░░░░░░░░░░░░  Ship & Apply      [ 0%]  Deploy + 50 Applications
+```
+
+---
+
+## 💡 How I Actually Learn
+
+```
+❌ Watch tutorial → copy code → move on → forget everything
+✅ Read the concept → write from scratch → break it → debug it → commit it
+```
+
+Every file in my repositories was:
+1. Written from memory without reference
+2. Reviewed like a senior engineer code review
+3. Fixed by understanding the bug, not just the fix
+4. Committed with a conventional commit message
+
+This is the only way to build muscle memory that survives an interview.
+
+---
+
+## 🎯 What I'm Looking For
+
+> **Backend Engineering / AI Engineering Internship — India / Remote**
+
+I want to work somewhere that:
+- Ships real software, not PowerPoint projects
+- Reviews code seriously (I want to learn from PRs)
+- Uses Python, FastAPI, or any modern backend stack
+- Is building something with AI integration
+
+I'm **not** interested in:
+- Data entry or support roles disguised as "tech internships"
+- "Unpaid for 6 months" schemes
+- Roles requiring 3 years experience for a student position
+
+📬 **Reach out on** [LinkedIn](https://www.linkedin.com/in/shivansh-mishra-15eb97356) — I reply within 24 hours.
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*Week 1 of 8. Building in public. Shipping real code.*
+*The GitHub contribution graph fills with work, not bots.*
+
+</div>
