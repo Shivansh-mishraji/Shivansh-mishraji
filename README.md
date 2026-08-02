@@ -69,7 +69,7 @@ class Shivansh:
   </tr>
   <tr>
     <td><b>Query Language</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30"/> SQL</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="30"/> SQL</td>
     <td>🔵 Intermediate</td>
   </tr>
   <tr>
