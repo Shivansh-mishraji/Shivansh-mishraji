@@ -65,12 +65,17 @@ class Shivansh:
   <tr>
     <td><b>Language</b></td>
     <td><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30"/> Python</td>
-    <td>✅ Strong</td>
+    <td>🔵 Intermediate+</td>
+  </tr>
+  <tr>
+    <td><b>Query Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30"/> SQL</td>
+    <td>🔵 Intermediate</td>
   </tr>
   <tr>
     <td><b>API Framework</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="30"/> FastAPI</td>
-    <td>🔄 Building</td>
+    <td>🔵 Intermediate</td>
   </tr>
   <tr>
     <td><b>Database</b></td>
@@ -104,9 +109,11 @@ class Shivansh:
 
 | Skill | Progress | Status |
 |:---|:---|:---:|
-| Python Core (OOP, Decorators, Exceptions) | `████████████████████` 100% | ✅ Done |
-| FastAPI (Routes, Pydantic, JWT Auth) | `██████████░░░░░░░░░░` 50% | 🔄 Active |
-| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 20% | ⏳ Next |
+| Python — OOP, Decorators, Exceptions | `██████████████░░░░░░` 70% | ✅ Core Done |
+| SQL — Queries, Joins, Aggregations | `████████░░░░░░░░░░░░` 40% | 🔵 Intermediate |
+| FastAPI — Routes, Pydantic | `██████░░░░░░░░░░░░░░` 30% | 🔵 Intermediate |
+| FastAPI — Auth, DI, Middleware | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔄 Active |
+| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 15% | ⏳ Next |
 | Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
 | Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
 
