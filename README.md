@@ -9,6 +9,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-mishra-132b97358/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-webpage-ashy.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tgsmishra@gmail.com)
 [![Open to Internship](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Internship-2EA44F?style=for-the-badge)](#-open-to)
 ![Views](https://komarev.com/ghpvc/?username=Shivansh-mishraji&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
@@ -207,7 +208,7 @@ Looking for a team that:
 - Does serious code reviews (I want to grow from PRs)
 - Integrates AI into the core product
 
-📬 **[LinkedIn](https://www.linkedin.com/in/shivansh-mishra-132b97358/)** &nbsp;·&nbsp; **[tgsmishra@gmail.com](mailto:tgsmishra@gmail.com)**
+📬 **[LinkedIn](https://www.linkedin.com/in/shivansh-mishra-132b97358/)** &nbsp;·&nbsp; **[Portfolio](https://resume-webpage-ashy.vercel.app/)** &nbsp;·&nbsp; **[tgsmishra@gmail.com](mailto:tgsmishra@gmail.com)**
 
 ---
 
