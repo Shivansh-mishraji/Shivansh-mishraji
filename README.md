@@ -173,12 +173,12 @@ class Shivansh:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/0-profile-details.svg" width="70%" alt="Profile Details"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/default/0-profile-details.svg" width="70%" alt="Profile Details"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/3-stats.svg" width="49%" alt="GitHub Stats"/>
-<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/1-repos-per-language.svg" width="49%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/default/3-stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/default/1-repos-per-language.svg" width="49%" alt="Top Languages"/>
 
 <br/>
 
