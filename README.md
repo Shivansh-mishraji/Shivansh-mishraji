@@ -173,16 +173,13 @@ class Shivansh:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=888888" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="41%" alt="Top Languages"/>
 
-</div>
+<br/>
 
----
+<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=888888" width="60%" alt="GitHub Streak"/>
 
-## 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivansh-mishraji&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
