@@ -173,8 +173,12 @@ class Shivansh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivansh-mishraji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-mishraji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="41%" alt="Top Languages"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/0-profile-details.svg" width="70%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/3-stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/1-repos-per-language.svg" width="49%" alt="Top Languages"/>
 
 <br/>
 
