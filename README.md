@@ -110,11 +110,12 @@ class Shivansh:
 
 | Skill | Progress | Status |
 |:---|:---|:---:|
-| Python — OOP, Decorators, Exceptions | `██████████████░░░░░░` 70% | ✅ Core Done |
-| SQL — Queries, Joins, Aggregations | `████████░░░░░░░░░░░░` 40% | 🔵 Intermediate |
-| FastAPI — Routes, Pydantic | `██████░░░░░░░░░░░░░░` 30% | 🔵 Intermediate |
-| FastAPI — Auth, DI, Middleware | `░░░░░░░░░░░░░░░░░░░░` 0% | 🔄 Active |
-| PostgreSQL + SQLAlchemy + Alembic | `████░░░░░░░░░░░░░░░░` 15% | ⏳ Next |
+| Python — OOP, Decorators, Exceptions, Generators | `█████████████████░░░` 85% | ✅ Stage 1 Complete |
+| Python — Type Hints, File I/O, Pathlib | `██████████████░░░░░░` 70% | ✅ Core Done |
+| SQL — Queries, Joins | `██████░░░░░░░░░░░░░░` 30% | 🔄 Active |
+| FastAPI — Routes, Pydantic | `█░░░░░░░░░░░░░░░░░░░` 5% | 🔄 Starting |
+| FastAPI — Auth, DI, Middleware | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Next |
+| PostgreSQL + SQLAlchemy + Alembic | `█░░░░░░░░░░░░░░░░░░░` 5% | 🔄 Starting |
 | Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
 | Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
 
