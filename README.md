@@ -182,7 +182,8 @@ class Shivansh:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Shivansh-mishraji&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&dates=888888" width="60%" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/default/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+<img src="https://raw.githubusercontent.com/Shivansh-mishraji/Shivansh-mishraji/output-cards/default/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 </div>
 
