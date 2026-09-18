@@ -79,19 +79,19 @@ class Shivansh:
     <td>🔵 Intermediate</td>
   </tr>
   <tr>
-    <td><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="30"/> PostgreSQL + SQLAlchemy</td>
-    <td>⏳ Coming Soon</td>
+    <td><b>Database & ORM</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" height="30"/> PostgreSQL, SQLite, SQLAlchemy 2.0</td>
+    <td>✅ Production Ready</td>
   </tr>
   <tr>
-    <td><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="30"/> Docker + <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="30"/> GitHub Actions</td>
-    <td>⏳ Coming Soon</td>
+    <td><b>DevOps & Hosting</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" height="30"/> Docker, GitHub Actions, Vercel, Render</td>
+    <td>🔵 Active CI/CD</td>
   </tr>
   <tr>
-    <td><b>AI / ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="30"/> Gemini API + ChromaDB (RAG)</td>
-    <td>⏳ Coming Soon</td>
+    <td><b>AI Engineering</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="30"/> Google Gemini 2.5 Flash API, PyMuPDF In-Memory Engine</td>
+    <td>✅ Shipped in Prod</td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
@@ -110,63 +110,59 @@ class Shivansh:
 
 | Skill | Progress | Status |
 |:---|:---|:---:|
-| Python — OOP, Decorators, Exceptions, Generators | `█████████████████░░░` 85% | ✅ Stage 1 Complete |
-| Python — Type Hints, File I/O, Pathlib | `██████████████░░░░░░` 70% | ✅ Core Done |
-| SQL — Queries, Joins | `██████░░░░░░░░░░░░░░` 30% | 🔄 Active |
-| FastAPI — Routes, Pydantic | `█░░░░░░░░░░░░░░░░░░░` 5% | 🔄 Starting |
-| FastAPI — Auth, DI, Middleware | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Next |
-| PostgreSQL + SQLAlchemy + Alembic | `█░░░░░░░░░░░░░░░░░░░` 5% | 🔄 Starting |
-| Docker + docker-compose + CI/CD | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
-| Gemini API + Embeddings + RAG | `░░░░░░░░░░░░░░░░░░░░` 0% | ⏳ Upcoming |
+| Python — Advanced OOP, Decorators, Custom Exceptions, Generators | `████████████████████` 100% | ✅ Stage 1 Mastered |
+| SQL Engine — Parameterized Queries, Relational FKs, ACID, B-Trees | `████████████████████` 100% | ✅ Stage 2A Mastered |
+| SQLAlchemy 2.0 — Mapped Types, Unit of Work, Dirty Tracking, Relational Schema | `████████████████████` 100% | ✅ Stage 2B Mastered |
+| FastAPI & Pydantic v2 — REST APIs, `Depends(get_db)`, Serialization | `████████████████░░░░` 80% | 🔄 Active & Shipping |
+| AI Integration — Google Gemini 2.5 Flash, In-Memory PDF Parsing, Pytest (38 Tests) | `████████████████████` 100% | ✅ Shipped in Production |
+| Docker & Containerization — Production deployment, Compose | `████░░░░░░░░░░░░░░░░` 20% | 🔄 Active Next |
 
 </div>
 
 ---
 
-## 🚀 Flagship Project — AI Resume Analyzer
+## 🚀 Flagship Project — AI-Powered Resume & Job Description Analyzer
 
-> **In Development** — Production grade · Full stack · Public URL on completion
+> **LIVE IN PRODUCTION** — Enterprise-Grade Hybrid ATS Semantic Engine & In-Memory Stream Parser
 
 <div align="center">
 
+[![Live Application](https://img.shields.io/badge/🚀_Live_Application-Vercel-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-powered-resume-analyzer-pi.vercel.app/)
+[![GitHub Repository](https://img.shields.io/badge/💻_GitHub_Repository-FastAPI_%2B_React_19-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivansh-mishraji/AI-Powered-Resume-Analyzer.git)
+[![Pytest Suite](https://img.shields.io/badge/🧪_Pytest-38_Tests_Passed-06b6d4?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/Shivansh-mishraji/AI-Powered-Resume-Analyzer.git)
+
+<br/>
+
 ```
-  [ User uploads resume (PDF) ]
-              │
-              ▼
-  ┌─────────────────────────┐
-  │     FastAPI Backend     │  ← JWT Auth · Rate Limiting · Pydantic validation
-  └─────────────────────────┘
-         │            │
-         ▼            ▼
-  ┌──────────┐  ┌──────────────────────────────┐
-  │PostgreSQL│  │       Gemini API              │
-  │+Alembic  │  │  LLM scoring + gap analysis  │
-  │(history) │  │  + structured JSON feedback  │
-  └──────────┘  └──────────────────────────────┘
-                         │
-                         ▼
-               ┌──────────────────┐
-               │    ChromaDB      │
-               │ Embeddings + RAG │
-               │ (semantic match) │
-               └──────────────────┘
-                         │
-                         ▼
-  [ Score · Skill Gaps · Suggestions → JSON Response ]
+  [ Candidate Resume Upload (.pdf / .docx) ]
+                     │
+                     ▼
+  ┌────────────────────────────────────────────────────────┐
+  │         FastAPI Backend In-Memory Stream Parser        │ ← 100% RAM Privacy (Zero Disk Writes via PyMuPDF)
+  └──────────────────────────┬─────────────────────────────┘
+                             │
+            ┌────────────────┴────────────────┐
+            ▼                                 ▼
+  ┌───────────────────────────┐   ┌───────────────────────────────┐
+  │ Primary: Gemini 2.5 Flash │   │ Secondary: Deterministic AST  │
+  │ Multi-dimensional Semantic│   │ Offline Rule Engine Fallback  │
+  │ Rubric & Gap Profiling    │   │ Set Intersection & Safe Bounds│
+  └───────────────────────────┘   └───────────────────────────────┘
+                             │
+                             ▼
+  [ Instant Match Score (0–100%) · Missing Core Competencies · Tailored Advice ]
 ```
 
 </div>
 
-| Layer | Technology | Status |
+| Architectural Layer | Technology & Implementation | Status |
 |:---|:---|:---:|
-| REST API | FastAPI + Pydantic v2 | 🔄 Active |
-| Auth | JWT + OAuth2 password flow | 🔄 Active |
-| ORM + Migrations | SQLAlchemy + Alembic | ⏳ Next |
-| AI Engine | Gemini API (structured output) | ⏳ Upcoming |
-| Vector Store | ChromaDB + text embeddings | ⏳ Upcoming |
-| Test Suite | pytest + httpx | ⏳ Upcoming |
-| Containerize | Docker + docker-compose | ⏳ Upcoming |
-| Deploy | Railway + GitHub Actions CI | ⏳ Final |
+| **Backend REST Core** | FastAPI, Pydantic v2 schemas, strict type enforcement | ✅ Deployed |
+| **Document Processing** | PyMuPDF in-memory buffer streaming (sub-50ms latency, zero disk I/O) | ✅ Deployed |
+| **AI Evaluation Engine** | Google Gemini 2.5 Flash API via BYOK zero-persistence header | ✅ Deployed |
+| **Deterministic Fallback** | AST rule engine with mathematical bound scoring ($[0, 100]\%$) | ✅ Deployed |
+| **Quality Verification** | 38 automated unit tests via Pytest covering edge cases & corrupt inputs | ✅ 38/38 Passed |
+| **Frontend Experience** | React 19, Vite, responsive glassmorphism UI | ✅ Deployed |
 
 ---
 
