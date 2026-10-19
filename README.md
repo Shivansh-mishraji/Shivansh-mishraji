@@ -37,7 +37,7 @@ class Shivansh:
 
     past     = "25 vibe-coded repos. Learned nothing. Looked busy."
     present  = "Building production-quality Python systems from scratch."
-    target   = "Backend / AI Engineering Internship — India or Remote"
+    target   = "Backend / AI / Software Engineering Internship — India or Remote"
 
     interests = [
         "Backend Systems & REST API Design",
