@@ -237,7 +237,7 @@ class Shivansh:
 
 ## 🎯 Open To
 
-**Backend / AI Engineering Internships** — India or Remote
+**Backend / AI / Software Engineering Internships** — India or Remote
 
 Looking for a team that:
 - Ships software people actually use
